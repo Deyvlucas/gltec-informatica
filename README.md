@@ -1,6 +1,7 @@
-# Projeto Next.js
+# GLTEC INFORMÁTICA
+## Projeto Next.js
 
-Este é um projeto web desenvolvido com Next.js, TypeScript e Tailwind CSS. O objetivo é fornecer uma base sólida para aplicações modernas com componentes reutilizáveis e design responsivo.
+Este é um projeto pessoal de minha loja, esse projeto web foi desenvolvido com Next.js, TypeScript e Tailwind CSS com um design responsivo. 
 
 ## Tecnologias Utilizadas
 

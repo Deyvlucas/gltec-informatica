@@ -39,6 +39,12 @@ export default function Home() {
               SERVIÇOS
             </Link>
             <Link
+              href="/pdv-expresso"
+              className="text-sm font-medium hover:text-orange-500 transition-colors"
+            >
+              PDV EXPRESSO
+            </Link>
+            <Link
               href="#contato"
               className="text-sm font-medium hover:text-orange-500 transition-colors"
             >

@@ -1,7 +1,8 @@
 # GLTEC INFORMÁTICA
+
 ## Projeto Next.js
 
-Este é um projeto pessoal de minha loja, esse projeto web foi desenvolvido com Next.js, TypeScript e Tailwind CSS com um design responsivo. 
+Este é um projeto pessoal de minha loja, esse projeto web foi desenvolvido com Next.js, TypeScript e Tailwind CSS com um design responsivo.
 
 ## Tecnologias Utilizadas
 
@@ -9,7 +10,7 @@ Este é um projeto pessoal de minha loja, esse projeto web foi desenvolvido com 
 - TypeScript
 - Tailwind CSS
 - React
-- Vários componentes UI personalizados
+- Vários componentes UI personalizados.
 
 ## Instalação
 

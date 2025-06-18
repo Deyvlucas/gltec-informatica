@@ -16,9 +16,9 @@ Este é um projeto pessoal de minha loja, esse projeto web foi desenvolvido com 
 
 Para instalar as dependências do projeto, execute:
 
-```bash
+`bash
 npm install
-```
+`
 
 ou, se preferir usar o pnpm:
 

@@ -46,6 +46,31 @@ export default function PDVExpresso() {
       logo: "/pdv-logos/tim.png",
       color: "bg-blue-500",
     },
+    {
+      id: 6,
+      name: "TSE",
+      description: "Portal de Serviços do Tribunal Superior Eleitoral",
+      url: "https://www.tse.jus.br",
+      logo: "/pdv-logos/tim.png",
+      color: "bg-blue-500",
+    },
+    {
+      id: 7,
+      name: "ANTECEDENTES FEDERAL",
+      description: "Portal de emissão do Antecedentes criminais Federal",
+      url: "https://servicos.pf.gov.br/epol-sinic-publico/",
+      logo: "/pdv-logos/tim.png",
+      color: "bg-yellow-500",
+    },
+    {
+      id: 8,
+      name: "ANTECEDENTES ESTADUAL - PE / IITB",
+      description:
+        "Portal de emissão do Antecedentes criminais Estadual - IITB - PE",
+      url: "https://abrir.link/DrYdw",
+      logo: "/pdv-logos/placeholder-logo.png",
+      color: "bg-blue-500",
+    },
   ];
 
   return (
@@ -172,7 +197,7 @@ export default function PDVExpresso() {
         <div className="container mx-auto px-4 text-center">
           <div className="flex items-center justify-center gap-2 mb-4">
             <Image
-              src="/placeholder.svg?height=40&width=120"
+              src="/placeholder-logo.png?height=40&width=120"
               alt="GLTEC INFORMÁTICA"
               width={120}
               height={40}

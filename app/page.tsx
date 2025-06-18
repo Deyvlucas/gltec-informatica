@@ -190,35 +190,35 @@ export default function Home() {
                 <TabsContent value="ti" className="mt-6">
                   <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
                     <TechServiceCard
-                      title="Manutenção de Computadores e Notebooks"
+                      title="🛠️ Manutenção de Computadores e Notebooks"
                       description="Serviços de reparo, limpeza e otimização para prolongar a vida útil do seu equipamento e melhorar seu desempenho."
                     />
                     <TechServiceCard
-                      title="Instalação de Programas e Sistemas"
+                      title="💾 Instalação de Programas e Sistemas"
                       description="Instalação e configuração de sistemas operacionais, softwares e aplicativos para uso pessoal ou empresarial."
                     />
                     <TechServiceCard
-                      title="Desenvolvimento de Sistemas e Automação"
+                      title="💻 Desenvolvimento de Sistemas e Automação"
                       description="Criação de sistemas personalizados e soluções de automação para otimizar processos e aumentar a produtividade."
                     />
                     <TechServiceCard
-                      title="Redes e Conectividade"
+                      title="🌐 Redes e Conectividade"
                       description="Instalação, configuração e manutenção de redes locais, Wi-Fi, servidores e equipamentos de conectividade."
                     />
                     <TechServiceCard
-                      title="Recuperação de Dados"
+                      title="📁 Recuperação de Dados"
                       description="Recuperação de arquivos e informações de dispositivos danificados, formatados ou com problemas de acesso."
                     />
                     <TechServiceCard
-                      title="Suporte Técnico Remoto"
+                      title="🧑‍💻 Suporte Técnico Remoto"
                       description="Assistência técnica à distância para resolução rápida de problemas sem necessidade de deslocamento."
                     />
                     <TechServiceCard
-                      title="Consultoria e Upgrades"
+                      title="📈 Consultoria e Upgrades"
                       description="Orientação especializada para melhorias de hardware e software, otimizando investimentos em tecnologia."
                     />
                     <TechServiceCard
-                      title="Serviços para Empresas"
+                      title="🏢 Serviços para Empresas"
                       description="Soluções completas em TI para empresas, incluindo manutenção preventiva, gestão de parque tecnológico e suporte contínuo."
                     />
                   </div>
